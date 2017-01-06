@@ -1,5 +1,6 @@
 import random
 import sys
+
 def gameplay():
     '''Guess the number game'''
     number = random.randint(1, 1001)
