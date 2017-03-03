@@ -1,5 +1,3 @@
-# Guess the number game in Python 3 with "Play again" feature
-Just a beginner's program for practice purposes.  
-Try to reproduce it without looking at the code.
-
+# Guess the number game with "Play again" feature
+A beginner's program for practice purposes.  
 Game played in the command line.
